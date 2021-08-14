@@ -1,14 +1,14 @@
 # Checkbox (EN)
 
-Creating a simple checkbox function on JavaScript language - <input type="checkbox" id="one" onchange="funChBox()"> .
+Creating a simple checkbox function on JavaScript language.
 
-####HTML
+#### HTML
 
 ```
 <input type="checkbox" id="one" onchange="funChBox()">
 ```
 
-####JavaScript
+#### JavaScript
 
 ```
 function funChBox() {
@@ -25,15 +25,15 @@ function funChBox() {
 
 # Checkbox (RU)
 
-Создание простой функции флажка на языке JavaScript - <input type="checkbox" id="one" onchange="funChBox()"> .
+Создание простой функции флажка на языке JavaScript.
 
-####HTML
+#### HTML
 
 ```
 <input type="checkbox" id="one" onchange="funChBox()">
 ```
 
-####JavaScript
+#### JavaScript
 
 ```
 function funChBox() {
